@@ -1,0 +1,14 @@
+C:\Users\July\Downloads\TableInConsole\TableInConsole\obj\Debug\netcoreapp3.1\TableInConsole.csproj.AssemblyReference.cache
+C:\Users\July\Downloads\TableInConsole\TableInConsole\obj\Debug\netcoreapp3.1\TableInConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\July\Downloads\TableInConsole\TableInConsole\obj\Debug\netcoreapp3.1\TableInConsole.AssemblyInfoInputs.cache
+C:\Users\July\Downloads\TableInConsole\TableInConsole\obj\Debug\netcoreapp3.1\TableInConsole.AssemblyInfo.cs
+C:\Users\July\Downloads\TableInConsole\TableInConsole\obj\Debug\netcoreapp3.1\TableInConsole.csproj.CoreCompileInputs.cache
+C:\Users\July\Downloads\TableInConsole\TableInConsole\bin\Debug\netcoreapp3.1\TableInConsole.exe
+C:\Users\July\Downloads\TableInConsole\TableInConsole\bin\Debug\netcoreapp3.1\TableInConsole.deps.json
+C:\Users\July\Downloads\TableInConsole\TableInConsole\bin\Debug\netcoreapp3.1\TableInConsole.runtimeconfig.json
+C:\Users\July\Downloads\TableInConsole\TableInConsole\bin\Debug\netcoreapp3.1\TableInConsole.runtimeconfig.dev.json
+C:\Users\July\Downloads\TableInConsole\TableInConsole\bin\Debug\netcoreapp3.1\TableInConsole.dll
+C:\Users\July\Downloads\TableInConsole\TableInConsole\bin\Debug\netcoreapp3.1\TableInConsole.pdb
+C:\Users\July\Downloads\TableInConsole\TableInConsole\obj\Debug\netcoreapp3.1\TableInConsole.dll
+C:\Users\July\Downloads\TableInConsole\TableInConsole\obj\Debug\netcoreapp3.1\TableInConsole.pdb
+C:\Users\July\Downloads\TableInConsole\TableInConsole\obj\Debug\netcoreapp3.1\TableInConsole.genruntimeconfig.cache
